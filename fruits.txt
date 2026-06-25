@@ -1,5 +1,6 @@
 Banana
 apple
+applejuice
 pineapple
 strayberry
 椰子
