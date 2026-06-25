@@ -2,3 +2,4 @@ Banana
 orange
 pineapple
 strayberry
+椰子
