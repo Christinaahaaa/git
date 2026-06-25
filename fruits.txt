@@ -4,3 +4,4 @@ applejuice
 pineapple
 strayberry
 椰子
+绿色
